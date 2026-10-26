@@ -1,39 +1,197 @@
-## Hi there, I'm Pablo 👋
+<div align="center">
 
-I'm a student of **Web Application Development** passionate about technology, backend development, and database design.
+  <!-- HERO BANNER -->
+  <img src="./assets/header.svg" alt="Pablo Tomé — Full-Stack Web Developer & Data Analyst" width="100%" />
 
-I’m currently working on an **intermodular project**, where I use technologies to build practical applications and improve my programming skills.
+  <br/>
 
-I enjoy learning how to create well-structured applications, write cleaner code, and develop solutions that connect logic, data, and usability.
+  <!-- TYPING ANIMATION -->
+  <a href="https://github.com/pablotome8">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=1000&color=38BDF8&center=true&vCenter=true&width=780&lines=Full-Stack+Web+Developer+%7C+HTML5+%E2%80%A2+CSS3+%E2%80%A2+JS+%E2%80%A2+PHP+%E2%80%A2+Node.js;Data+Analyst+%26+DB+Architect+%7C+Python+%E2%80%A2+SQL+%E2%80%A2+PostgreSQL+%E2%80%A2+MongoDB;Connecting+Clean+Frontend+UIs%2C+Scalable+Backends+%26+Data+Insights" alt="Typing SVG" />
+  </a>
 
-Outside of programming, I also like **sports**, which helps reflect an active and disciplined mindset in my day-to-day life.
+  <br/>
 
-## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=HTML5&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=CSS3&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/PE-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=6aa6f8)
+  <!-- PROFILE BADGES -->
+  <img src="https://img.shields.io/badge/Role-Full--Stack_%26_Data_Analyst-0ea5e9?style=for-the-badge&logo=databricks&logoColor=white" alt="Role" />
+  <img src="https://img.shields.io/badge/Location-Oviedo,_Spain-6366f1?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+  <img src="https://img.shields.io/badge/Focus-Web_Apps_%26_Data_Pipelines-10b981?style=for-the-badge&logo=serverless&logoColor=white" alt="Focus" />
+  <img src="https://komarev.com/ghpvc/?username=pablotome8&label=Profile%20Views&color=38bdf8&style=for-the-badge" alt="Profile Views" />
 
+</div>
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=apple&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Editor-VsCode-informational?style=flat&logo=vscode&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/DVCS-Git-informational?style=flat&logo=git&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/DVCS-GitHub-informational?style=flat&logo=github&logoColor=white&color=6aa6f8)
+<br/>
 
+---
 
-![](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/DB-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=6aa6f8)
+## ⚡ About Me
 
+I'm **Pablo Tomé Manzano**, a **Web Application Development (DAW)** developer and **Data Analyst** passionate about building complete, data-driven web ecosystems—from responsive, accessible interfaces to robust backend APIs and analytical database architectures.
 
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
+<table>
+  <tr>
+    <td width="58%" valign="top">
+      <ul>
+        <li>🌐 <b>Full-Stack Web Development:</b> Crafting modern web interfaces and backend services using <b>HTML5, CSS3, JavaScript (ES6+), PHP, Node.js, and Express</b>.</li>
+        <li>📊 <b>Data Analysis & Database Design:</b> Querying, modeling, and analyzing structured & unstructured datasets with <b>Python, SQL (PostgreSQL, MySQL), and NoSQL (MongoDB)</b>.</li>
+        <li>🚀 <b>Current Focus:</b> Developing end-to-end <b>intermodular web applications</b>, RESTful APIs, and analytical data workflows that bridge business logic, data persistence, and user experience.</li>
+        <li>🏃‍♂️ <b>Beyond the Terminal:</b> Avid reader 📚 and sports enthusiast—bringing discipline, consistency, and continuous improvement to every project.</li>
+      </ul>
+    </td>
+    <td width="42%" valign="top">
 
+```yaml
+developer:
+  name: "Pablo Tomé Manzano"
+  location: "Oviedo, Asturias, ES"
+  roles:
+    - "Full-Stack Web Developer"
+    - "Data Analyst"
+  core_stack:
+    frontend: ["HTML5", "CSS3", "JavaScript (ES6+)"]
+    backend:  ["Node.js", "Express", "PHP", "Python"]
+    data_db:  ["PostgreSQL", "MySQL", "MongoDB", "SQL"]
+    devops:   ["Docker", "Linux", "Bash", "Git"]
+  interests:
+    - "REST APIs & Web Architecture"
+    - "Data Querying & Modeling"
+    - "Sports & Technical Reading"
+```
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=pablotome8)
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/pablotome8/pablotome8)
+  </td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,php,python,postgres,mysql,mongodb,docker,linux,bash,git,github,vscode&perline=8&theme=dark" alt="Tech Stack Icons" />
+  </a>
+
+</div>
+
+<br/>
+
+<table width="100%">
+  <tr>
+    <th width="33%" align="center">🌐 Full-Stack Web Development</th>
+    <th width="33%" align="center">📊 Data Analysis & Databases</th>
+    <th width="33%" align="center">⚙️ DevOps, OS & Environment</th>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <br/>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+      <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+      <br/><br/>
+    </td>
+    <td align="center" valign="top">
+      <br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+      <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose"/>
+      <img src="https://img.shields.io/badge/SQL_Analytics-0ea5e9?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL"/>
+      <br/><br/>
+    </td>
+    <td align="center" valign="top">
+      <br/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+      <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+      <br/><br/>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🚀 Featured Projects — Full-Stack & Data
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎬 <a href="https://github.com/pablotome8/proyecto5-noSQL-movies-pabloTomeManzano">NoSQL Movies & Cinemas REST API</a></h3>
+      <p>
+        Backend RESTful API built with <b>Node.js, Express, and MongoDB (Mongoose)</b> to manage a movie catalog and cinema locations. Features complete CRUD operations, multi-criteria filtering (by genre, release year, title), relational document population (<code>ObjectId</code> + <code>populate</code>), and data seeding.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/REST_API-0ea5e9?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>✈️ <a href="https://github.com/pablotome8/proyecto4-SQL-airport-pabloTomeManzano">Airport SQL Data Analysis</a></h3>
+      <p>
+        Analytical querying and relational exploration over an aviation & booking database in <b>PostgreSQL / SQL</b>. Includes multi-table <code>JOIN</code> pipelines, booking revenue filtering, fleet utilization aggregations, multi-passenger reservation metrics, and departure delay interval analysis.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQL-0ea5e9?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Data_Analysis-10b981?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🐍 <a href="https://github.com/pablotome8/proyecto3-katas-python-pabloTomeManzano">Python Data & Algorithmic Katas</a></h3>
+      <p>
+        Comprehensive suite of 40+ <b>Python</b> exercises focused on data manipulation, functional transformations (<code>map</code>, <code>filter</code>, <code>reduce</code>, lambdas), frequency aggregation, exception handling, and object-oriented domain modeling.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Data_Processing-f59e0b?style=flat-square" />
+        <img src="https://img.shields.io/badge/Algorithms-818cf8?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚡ <a href="https://github.com/pablotome8/proyecto2-katas-javascript-pabloTomeManzano">JavaScript ES6+, DOM & Async Suite</a> & <a href="https://github.com/pablotome8/proyecto1-html-pablotomemanzano">Web Portfolio</a></h3>
+      <p>
+        Front-end and interactive web development projects combining semantic <b>HTML5</b>, responsive <b>CSS3</b> (Grid/Flexbox), dynamic <b>DOM manipulation</b>, ES6+ array pipelines, and asynchronous API consumption with <code>fetch</code> / <code>async-await</code>.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/Async_/_DOM-38bdf8?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📈 GitHub Analytics & Activity
+
+<div align="center">
+
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablotome8&layout=compact&theme=tokyonight&hide_border=true&hide=java&langs_count=6" alt="Top Languages" />
+  &nbsp;
+  <img height="175" src="https://streak-stats.demolab.com?user=pablotome8&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+  <br/><br/>
+
+  <img width="92%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pablotome8&theme=tokyonight" alt="GitHub Profile Summary" />
+
+</div>
+
+<br/>
+
+<!-- FOOTER BANNER -->
+<div align="center">
+  <img src="./assets/footer.svg" alt="Footer Banner" width="100%" />
+</div>
