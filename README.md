@@ -7,15 +7,15 @@
 
   <!-- TYPING ANIMATION -->
   <a href="https://github.com/pablotome8">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=1000&color=38BDF8&center=true&vCenter=true&width=820&lines=Full-Stack+Web+Developer+%7C+React+%E2%80%A2+Tailwind+%E2%80%A2+JS+%E2%80%A2+Laravel+%E2%80%A2+Node.js;Data+Analyst+%26+DB+Architect+%7C+Python+%E2%80%A2+SQL+%E2%80%A2+PostgreSQL+%E2%80%A2+MongoDB;Connecting+Clean+Frontend+UIs%2C+Scalable+Backends+%26+Data+Insights" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=1000&color=38BDF8&center=true&vCenter=true&width=840&lines=Full-Stack+Web+Developer+%7C+HTML5+%E2%80%A2+CSS3+%E2%80%A2+Tailwind+%E2%80%A2+JS+%E2%80%A2+PHP+%E2%80%A2+Node.js;Data+Analyst+%26+DB+Architect+%7C+Python+(uv)+%E2%80%A2+SQL+%E2%80%A2+PostgreSQL+17+%E2%80%A2+MongoDB;CachyOS+Linux+%E2%80%A2+Fish+Shell+%E2%80%A2+Docker+%E2%80%A2+Nginx+%7C+Learning+React%2C+Express+%26+Laravel" alt="Typing SVG" />
   </a>
 
   <br/>
 
   <!-- PROFILE BADGES -->
   <img src="https://img.shields.io/badge/Role-Full--Stack_%26_Data_Analyst-0ea5e9?style=for-the-badge&logo=databricks&logoColor=white" alt="Role" />
-  <img src="https://img.shields.io/badge/Location-Oviedo,_Spain-6366f1?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
-  <img src="https://img.shields.io/badge/Focus-Web_Apps_%26_Data_Pipelines-10b981?style=for-the-badge&logo=serverless&logoColor=white" alt="Focus" />
+  <img src="https://img.shields.io/badge/OS-CachyOS_(Arch_Linux)-6366f1?style=for-the-badge&logo=archlinux&logoColor=white" alt="OS" />
+  <img src="https://img.shields.io/badge/Location-Oviedo,_Spain-10b981?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
   <img src="https://komarev.com/ghpvc/?username=pablotome8&label=Profile%20Views&color=38bdf8&style=for-the-badge" alt="Profile Views" />
 
 </div>
@@ -26,36 +26,38 @@
 
 ## ⚡ About Me
 
-I'm **Pablo Tomé Manzano**, a **Web Application Development (DAW)** developer and **Data Analyst** passionate about building complete, data-driven web ecosystems—from responsive, accessible interfaces to robust backend APIs and analytical database architectures.
+I'm **Pablo Tomé Manzano**, a **Web Application Development (DAW)** developer and **Data Analyst** passionate about building complete, data-driven web ecosystems—from responsive, modern interfaces to containerized backend workflows and analytical database architectures.
 
 <table>
   <tr>
-    <td width="58%" valign="top">
+    <td width="56%" valign="top">
       <ul>
-        <li>🌐 <b>Full-Stack Web Development:</b> Crafting modern web interfaces and backend services using <b>HTML5, CSS3, Tailwind CSS, JavaScript (ES6+), React, PHP, Laravel, Node.js, and Express</b>.</li>
-        <li>📊 <b>Data Analysis & Database Design:</b> Querying, modeling, and analyzing structured & unstructured datasets with <b>Python, SQL (PostgreSQL), and NoSQL (MongoDB)</b>.</li>
-        <li>🚀 <b>Current Focus:</b> Developing end-to-end <b>intermodular web applications</b>, RESTful APIs, and analytical data workflows that bridge business logic, data persistence, and user experience.</li>
+        <li>🌐 <b>Full-Stack Web Development:</b> Building web interfaces and server-side applications with <b>HTML5, CSS3, Tailwind CSS, JavaScript (ES6+), PHP 8, Node.js, and Java 21</b>, supported by modern build tooling (<b>Vite, pnpm, fnm, Composer, Maven</b>).</li>
+        <li>📊 <b>Data Analysis & Database Design:</b> Modeling, querying, and analyzing relational and document datasets using <b>Python (<code>uv</code>), SQL, PostgreSQL 17, MongoDB, and DBeaver</b>.</li>
+        <li>🐧 <b>Linux & Containerized Workflow:</b> Daily driver on <b>CachyOS (Arch Linux)</b> with a customized <b>Fish Shell + Starship</b> terminal environment, <b>Docker & Compose</b>, <b>Nginx</b>, <b>Lazygit / Lazydocker</b>, and <b>Bruno</b> for API testing.</li>
+        <li>🌱 <b>Currently Learning:</b> Actively expanding my stack into <b>React</b>, <b>Express.js</b>, and <b>Laravel</b>.</li>
         <li>🏃‍♂️ <b>Beyond the Terminal:</b> Avid reader 📚 and sports enthusiast—bringing discipline, consistency, and continuous improvement to every project.</li>
       </ul>
     </td>
-    <td width="42%" valign="top">
+    <td width="44%" valign="top">
 
 ```yaml
 developer:
   name: "Pablo Tomé Manzano"
   location: "Oviedo, Asturias, ES"
+  environment: "CachyOS (Arch) • Fish • Starship"
   roles:
     - "Full-Stack Web Developer"
     - "Data Analyst"
   core_stack:
-    frontend: ["HTML5", "CSS3", "Tailwind CSS", "JS", "React"]
-    backend:  ["Node.js", "Express", "PHP", "Laravel", "Python"]
-    data_db:  ["PostgreSQL", "MongoDB", "SQL"]
-    devops:   ["Docker", "Linux", "Bash", "Git"]
-  interests:
-    - "REST APIs & Web Architecture"
-    - "Data Querying & Modeling"
-    - "Sports & Technical Reading"
+    web:     ["HTML5", "CSS3", "Tailwind", "JS (ES6+)", "PHP", "Node.js"]
+    data_db: ["Python (uv)", "PostgreSQL 17", "MongoDB", "SQL", "DBeaver"]
+    tooling: ["Vite", "pnpm", "fnm", "Composer", "Java 21", "Maven"]
+    devops:  ["Docker", "Nginx", "Git & Lazygit", "Lazydocker", "Bruno"]
+  currently_learning:
+    - "React"
+    - "Express.js"
+    - "Laravel"
 ```
 
   </td>
@@ -64,12 +66,12 @@ developer:
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack & Daily Environment
 
 <div align="center">
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express,php,laravel,python,postgres,mongodb,docker,linux,bash,git,github,vscode&perline=9&theme=dark" alt="Tech Stack Icons" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,php,nodejs,python,java,postgres,mongodb,vite,pnpm,maven,docker,nginx,arch,bash,git,github,vscode,idea&perline=11&theme=dark" alt="Core Tech Stack Icons" />
   </a>
 
 </div>
@@ -78,9 +80,9 @@ developer:
 
 <table width="100%">
   <tr>
-    <th width="33%" align="center">🌐 Full-Stack Web Development</th>
+    <th width="33%" align="center">🌐 Full-Stack Web & Tooling</th>
     <th width="33%" align="center">📊 Data Analysis & Databases</th>
-    <th width="33%" align="center">⚙️ DevOps, OS & Environment</th>
+    <th width="33%" align="center">🐧 Linux, DevOps & Workflow</th>
   </tr>
   <tr>
     <td align="center" valign="top">
@@ -89,30 +91,50 @@ developer:
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
       <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+      <img src="https://img.shields.io/badge/PHP_8-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
       <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-      <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+      <img src="https://img.shields.io/badge/Java_21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java 21"/>
+      <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
+      <img src="https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white" alt="pnpm"/>
+      <img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white" alt="Composer"/>
+      <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven"/>
       <br/><br/>
     </td>
     <td align="center" valign="top">
       <br/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+      <img src="https://img.shields.io/badge/uv-DE5FE9?style=for-the-badge&logo=astral&logoColor=white" alt="uv"/>
+      <img src="https://img.shields.io/badge/PostgreSQL_17-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
       <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose"/>
       <img src="https://img.shields.io/badge/SQL_Analytics-0ea5e9?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL"/>
+      <img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white" alt="DBeaver"/>
       <br/><br/>
     </td>
     <td align="center" valign="top">
       <br/>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-      <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+      <img src="https://img.shields.io/badge/CachyOS_/_Arch-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" alt="CachyOS / Arch Linux"/>
+      <img src="https://img.shields.io/badge/Fish_Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Fish Shell"/>
+      <img src="https://img.shields.io/badge/Docker_%26_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+      <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
+      <img src="https://img.shields.io/badge/Git_%26_Lazygit-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git & Lazygit"/>
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+      <img src="https://img.shields.io/badge/Bruno_API-F4A261?style=for-the-badge&logo=insomnia&logoColor=white" alt="Bruno"/>
       <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+      <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA"/>
+      <br/><br/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center">
+      <br/>
+      <b>🌱 Currently Learning &amp; Expanding Into</b>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/React_(Learning)-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React (Learning)"/>
+      &nbsp;
+      <img src="https://img.shields.io/badge/Express.js_(Learning)-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js (Learning)"/>
+      &nbsp;
+      <img src="https://img.shields.io/badge/Laravel_(Learning)-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel (Learning)"/>
       <br/><br/>
     </td>
   </tr>
