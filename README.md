@@ -7,7 +7,7 @@
 
   <!-- TYPING ANIMATION -->
   <a href="https://github.com/pablotome8">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=1000&color=38BDF8&center=true&vCenter=true&width=780&lines=Full-Stack+Web+Developer+%7C+HTML5+%E2%80%A2+CSS3+%E2%80%A2+JS+%E2%80%A2+PHP+%E2%80%A2+Node.js;Data+Analyst+%26+DB+Architect+%7C+Python+%E2%80%A2+SQL+%E2%80%A2+PostgreSQL+%E2%80%A2+MongoDB;Connecting+Clean+Frontend+UIs%2C+Scalable+Backends+%26+Data+Insights" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=1000&color=38BDF8&center=true&vCenter=true&width=820&lines=Full-Stack+Web+Developer+%7C+React+%E2%80%A2+Tailwind+%E2%80%A2+JS+%E2%80%A2+Laravel+%E2%80%A2+Node.js;Data+Analyst+%26+DB+Architect+%7C+Python+%E2%80%A2+SQL+%E2%80%A2+PostgreSQL+%E2%80%A2+MongoDB;Connecting+Clean+Frontend+UIs%2C+Scalable+Backends+%26+Data+Insights" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -32,8 +32,8 @@ I'm **Pablo Tomé Manzano**, a **Web Application Development (DAW)** developer a
   <tr>
     <td width="58%" valign="top">
       <ul>
-        <li>🌐 <b>Full-Stack Web Development:</b> Crafting modern web interfaces and backend services using <b>HTML5, CSS3, JavaScript (ES6+), PHP, Node.js, and Express</b>.</li>
-        <li>📊 <b>Data Analysis & Database Design:</b> Querying, modeling, and analyzing structured & unstructured datasets with <b>Python, SQL (PostgreSQL, MySQL), and NoSQL (MongoDB)</b>.</li>
+        <li>🌐 <b>Full-Stack Web Development:</b> Crafting modern web interfaces and backend services using <b>HTML5, CSS3, Tailwind CSS, JavaScript (ES6+), React, PHP, Laravel, Node.js, and Express</b>.</li>
+        <li>📊 <b>Data Analysis & Database Design:</b> Querying, modeling, and analyzing structured & unstructured datasets with <b>Python, SQL (PostgreSQL), and NoSQL (MongoDB)</b>.</li>
         <li>🚀 <b>Current Focus:</b> Developing end-to-end <b>intermodular web applications</b>, RESTful APIs, and analytical data workflows that bridge business logic, data persistence, and user experience.</li>
         <li>🏃‍♂️ <b>Beyond the Terminal:</b> Avid reader 📚 and sports enthusiast—bringing discipline, consistency, and continuous improvement to every project.</li>
       </ul>
@@ -48,9 +48,9 @@ developer:
     - "Full-Stack Web Developer"
     - "Data Analyst"
   core_stack:
-    frontend: ["HTML5", "CSS3", "JavaScript (ES6+)"]
-    backend:  ["Node.js", "Express", "PHP", "Python"]
-    data_db:  ["PostgreSQL", "MySQL", "MongoDB", "SQL"]
+    frontend: ["HTML5", "CSS3", "Tailwind CSS", "JS", "React"]
+    backend:  ["Node.js", "Express", "PHP", "Laravel", "Python"]
+    data_db:  ["PostgreSQL", "MongoDB", "SQL"]
     devops:   ["Docker", "Linux", "Bash", "Git"]
   interests:
     - "REST APIs & Web Architecture"
@@ -69,7 +69,7 @@ developer:
 <div align="center">
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,php,python,postgres,mysql,mongodb,docker,linux,bash,git,github,vscode&perline=8&theme=dark" alt="Tech Stack Icons" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express,php,laravel,python,postgres,mongodb,docker,linux,bash,git,github,vscode&perline=9&theme=dark" alt="Tech Stack Icons" />
   </a>
 
 </div>
@@ -87,17 +87,19 @@ developer:
       <br/>
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
       <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
       <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
       <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
       <br/><br/>
     </td>
     <td align="center" valign="top">
       <br/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
       <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose"/>
       <img src="https://img.shields.io/badge/SQL_Analytics-0ea5e9?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL"/>
