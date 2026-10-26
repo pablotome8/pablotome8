@@ -160,14 +160,14 @@ developer:
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>📚 <a href="https://github.com/pablotome8/HorrorLibray">HorrorLibrary — Stephen King Catalog App</a></h3>
+      <h3>📕 <a href="https://github.com/pablotome8/HorrorLibray">HorrorLibrary — Stephen King Catalog App</a></h3>
       <p>
-        Application designed to explore and manage Stephen King's literary bibliography. Features a decoupled <b>JavaFX (FXML)</b> user interface paired with structured <b>XML</b> data parsing and persistence in <b>Java</b> for detailed work queries, dynamic filtering, and favorite book storage.
+        Modern desktop application designed to explore, search, and curate Stephen King's literary bibliography. Features a custom <b>Gothic Dark CSS</b> theme over decoupled <b>JavaFX (FXML)</b> views, <b>REST API</b> consumption via <code>HttpClient</code>, and local <b>JSON</b> persistence with <b>Gson</b>.
       </p>
       <p>
         <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaFX_/_FXML-0ea5e9?style=flat-square" />
-        <img src="https://img.shields.io/badge/XML_Parsing-f59e0b?style=flat-square" />
+        <img src="https://img.shields.io/badge/JavaFX_/_CSS-0ea5e9?style=flat-square" />
+        <img src="https://img.shields.io/badge/REST_API_/_Gson-f59e0b?style=flat-square" />
       </p>
     </td>
   </tr>
