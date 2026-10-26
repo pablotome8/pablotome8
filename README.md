@@ -148,26 +148,26 @@ developer:
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🐍 <a href="https://github.com/pablotome8/proyecto3-katas-python-pabloTomeManzano">Python Data & Algorithmic Katas</a></h3>
+      <h3>🌸 <a href="https://github.com/pablotome8/FloristeriaLaBajo">Floristería Labajo — Web & Management Platform</a></h3>
       <p>
-        Comprehensive suite of 40+ <b>Python</b> exercises focused on data manipulation, functional transformations (<code>map</code>, <code>filter</code>, <code>reduce</code>, lambdas), frequency aggregation, exception handling, and object-oriented domain modeling.
+        End-to-end platform for organic flower e-commerce and internal administration. Unifies an intuitive customer web portal (<b>HTML5 & CSS3</b>) with a relational database architecture connected via <b>JDBC & SQL</b> in <b>Java</b> for order tracking, fresh stock control, and delivery logistics.
       </p>
       <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Data_Processing-f59e0b?style=flat-square" />
-        <img src="https://img.shields.io/badge/Algorithms-818cf8?style=flat-square" />
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQL_/_JDBC-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/HTML5_%26_CSS3-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>⚡ <a href="https://github.com/pablotome8/proyecto2-katas-javascript-pabloTomeManzano">JavaScript ES6+, DOM & Async Suite</a> & <a href="https://github.com/pablotome8/proyecto1-html-pablotomemanzano">Web Portfolio</a></h3>
+      <h3>📚 <a href="https://github.com/pablotome8/HorrorLibray">HorrorLibrary — Stephen King Catalog App</a></h3>
       <p>
-        Front-end and interactive web development projects combining semantic <b>HTML5</b>, responsive <b>CSS3</b> (Grid/Flexbox), dynamic <b>DOM manipulation</b>, ES6+ array pipelines, and asynchronous API consumption with <code>fetch</code> / <code>async-await</code>.
+        Application designed to explore and manage Stephen King's literary bibliography. Features a decoupled <b>JavaFX (FXML)</b> user interface paired with structured <b>XML</b> data parsing and persistence in <b>Java</b> for detailed work queries, dynamic filtering, and favorite book storage.
       </p>
       <p>
-        <img src="https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-        <img src="https://img.shields.io/badge/Async_/_DOM-38bdf8?style=flat-square" />
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaFX_/_FXML-0ea5e9?style=flat-square" />
+        <img src="https://img.shields.io/badge/XML_Parsing-f59e0b?style=flat-square" />
       </p>
     </td>
   </tr>
