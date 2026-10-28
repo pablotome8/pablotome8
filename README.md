@@ -27,18 +27,6 @@
 
 I'm **Pablo Tomé Manzano**, a **Web Application Development (DAW)** student and developer based in Oviedo, Spain. I focus on developing web applications using **Java, Spring Boot, Angular, PHP, and JavaScript**, managing relational databases with **SQL (PostgreSQL)**, and data analysis with **Python (Pandas)**.
 
-<table>
-  <tr>
-    <td width="58%" valign="top">
-      <ul>
-        <li>🌐 <b>Web & Backend:</b> Developing web applications with **Java, Spring Boot, Angular, PHP, JavaScript, HTML5, CSS3**, and **Tailwind CSS**.</li>
-        <li>📊 <b>Databases & Data:</b> Writing relational queries and database schemas with **SQL (PostgreSQL)**, and exploring data manipulation with **Python (Pandas)**.</li>
-        <li>⚙️ <b>Development Tools:</b> Working with **Docker, Linux, Bash, Git**, and **VS Code** for version control and development environments.</li>
-        <li>🏃‍♂️ <b>Beyond the Terminal:</b> Reading 📚 and sports enthusiast.</li>
-      </ul>
-    </td>
-    <td width="42%" valign="top">
-
 ```yaml
 developer:
   name: "Pablo Tomé Manzano"
@@ -51,11 +39,6 @@ developer:
     tools:    ["Docker", "Linux", "Bash", "Git"]
 ```
 
-  </td>
-  </tr>
-</table>
-
----
 
 ## 🛠️ Tech Stack & Tools
 
