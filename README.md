@@ -31,7 +31,7 @@ I'm **Pablo Tomé Manzano**, a **Web Application Development (DAW)** student and
 developer:
   name: "Pablo Tomé Manzano"
   location: "Oviedo, Asturias, ES"
-  role: "Web Application Developer (DAW)"
+  role: "Backend Developer (DAW)"
   stack:
     backend:  ["Java", "Spring Boot", "PHP"]
     frontend: ["Angular", "JavaScript", "HTML5", "CSS3", "Tailwind CSS"]
