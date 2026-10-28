@@ -7,15 +7,15 @@
 
   <!-- TYPING ANIMATION -->
   <a href="https://github.com/pablotome8">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=1000&color=38BDF8&center=true&vCenter=true&width=820&lines=Full-Stack+Developer+%7C+Java+%E2%80%A2+Spring+Boot+%E2%80%A2+Angular+%E2%80%A2+TypeScript;Data+%26+Databases+%7C+SQL+%E2%80%A2+PostgreSQL+%E2%80%A2+MongoDB+%E2%80%A2+Python;Enterprise+Backends%2C+Clean+Frontend+UIs+%26+Relational+Data+Design" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=1000&color=38BDF8&center=true&vCenter=true&width=820&lines=Web+Developer+%7C+Java+%E2%80%A2+Spring+Boot+%E2%80%A2+Angular+%E2%80%A2+PHP;Databases+%26+Data+%7C+SQL+%E2%80%A2+PostgreSQL+%E2%80%A2+Python+%E2%80%A2+Pandas;Frontend+Basics+%7C+HTML5+%E2%80%A2+CSS3+%E2%80%A2+Tailwind+CSS" alt="Typing SVG" />
   </a>
 
   <br/>
 
   <!-- PROFILE BADGES -->
-  <img src="https://img.shields.io/badge/Stack-Java_%E2%80%A2_Spring_Boot_%E2%80%A2_Angular-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Stack" />
+  <img src="https://img.shields.io/badge/Stack-Java_%E2%80%A2_Spring_Boot_%E2%80%A2_Angular_%E2%80%A2_PHP-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Stack" />
   <img src="https://img.shields.io/badge/Location-Oviedo,_Spain-6366f1?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
-  <img src="https://img.shields.io/badge/Focus-Enterprise_Web_%26_Relational_Data-10b981?style=for-the-badge&logo=serverless&logoColor=white" alt="Focus" />
+  <img src="https://img.shields.io/badge/Databases-SQL_%E2%80%A2_PostgreSQL-0ea5e9?style=for-the-badge&logo=postgresql&logoColor=white" alt="Databases" />
   <img src="https://komarev.com/ghpvc/?username=pablotome8&label=Profile%20Views&color=38bdf8&style=for-the-badge" alt="Profile Views" />
 
 </div>
@@ -26,16 +26,16 @@
 
 ## ⚡ About Me
 
-I'm **Pablo Tomé Manzano**, a **Web Application Development (DAW)** developer and **Data Analyst** passionate about building robust, data-driven web ecosystems—from scalable enterprise backend architectures with **Java & Spring Boot** to responsive, decoupled clients with **Angular & TypeScript**, supported by solid relational modeling in **SQL**.
+I'm **Pablo Tomé Manzano**, a **Web Application Development (DAW)** student and developer based in Oviedo, Spain. I focus on developing web applications using **Java, Spring Boot, Angular, and PHP**, managing relational databases with **SQL (PostgreSQL)**, and data analysis with **Python (Pandas)**.
 
 <table>
   <tr>
     <td width="58%" valign="top">
       <ul>
-        <li>☕ <b>Enterprise Full-Stack:</b> Architecting robust backend services and decoupled web clients with <b>Java, Spring Boot, Angular, and TypeScript</b>, backed by strong fundamentals in <b>JavaScript (ES6+), HTML5, and CSS3/Tailwind</b>.</li>
-        <li>📊 <b>Relational Data & DB Architecture:</b> Designing, querying, and modeling structured data pipelines with <b>SQL (PostgreSQL)</b> and document persistence in <b>NoSQL (MongoDB)</b>, complemented by data automation in <b>Python</b>.</li>
-        <li>🎯 <b>Engineering Mindset:</b> Prioritizing deep mastery of enterprise patterns, clean architecture, and solid language foundations over shallow framework chasing.</li>
-        <li>🏃‍♂️ <b>Beyond the Terminal:</b> Avid reader 📚 and sports enthusiast—bringing discipline, consistency, and continuous improvement to every challenge.</li>
+        <li>🌐 <b>Web & Backend:</b> Developing web applications with <b>Java, Spring Boot, Angular, PHP, HTML5, CSS3</b>, and <b>Tailwind CSS</b>.</li>
+        <li>📊 <b>Databases & Data:</b> Writing relational queries and database schemas with <b>SQL (PostgreSQL)</b>, and exploring data manipulation with <b>Python (Pandas)</b>.</li>
+        <li>⚙️ <b>Development Tools:</b> Working with <b>Docker, Linux, Bash, Git</b>, and <b>VS Code</b> for version control and development environments.</li>
+        <li>🏃‍♂️ <b>Beyond the Terminal:</b> Reading 📚 and sports enthusiast.</li>
       </ul>
     </td>
     <td width="42%" valign="top">
@@ -44,19 +44,12 @@ I'm **Pablo Tomé Manzano**, a **Web Application Development (DAW)** developer a
 developer:
   name: "Pablo Tomé Manzano"
   location: "Oviedo, Asturias, ES"
-  roles:
-    - "Full-Stack Developer (Java & Angular)"
-    - "Data Analyst"
-  core_stack:
-    backend:  ["Java", "Spring Boot"]
-    frontend: ["Angular", "TypeScript", "JavaScript", "HTML5/CSS3"]
-    data_db:  ["SQL", "PostgreSQL", "MongoDB"]
-    devops:   ["Docker", "Linux", "Bash", "Git"]
-  foundations: ["Python", "PHP", "OOP & Design Patterns"]
-  interests:
-    - "Enterprise Architecture & REST APIs"
-    - "Relational Modeling & SQL Querying"
-    - "Continuous Learning & Clean Code"
+  role: "Web Application Developer (DAW)"
+  stack:
+    backend:  ["Java", "Spring Boot", "PHP"]
+    frontend: ["Angular", "HTML5", "CSS3", "Tailwind CSS"]
+    data_db:  ["SQL", "PostgreSQL", "Python", "Pandas"]
+    tools:    ["Docker", "Linux", "Bash", "Git"]
 ```
 
   </td>
@@ -70,7 +63,7 @@ developer:
 <div align="center">
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,angular,ts,js,html,css,tailwind,postgres,mongodb,python,docker,linux,bash,git,github,vscode&perline=8&theme=dark" alt="Tech Stack Icons" />
+    <img src="https://skillicons.dev/icons?i=java,spring,angular,html,css,tailwind,php,postgres,py,docker,linux,bash,git,github,vscode&perline=8&theme=dark" alt="Tech Stack Icons" />
   </a>
 
 </div>
@@ -79,9 +72,9 @@ developer:
 
 <table width="100%">
   <tr>
-    <th width="33%" align="center">☕ Enterprise & Web Stack</th>
-    <th width="33%" align="center">📊 SQL & Databases</th>
-    <th width="33%" align="center">⚙️ DevOps, OS & Environment</th>
+    <th width="33%" align="center">☕ Web Development</th>
+    <th width="33%" align="center">📊 SQL &amp; Data</th>
+    <th width="33%" align="center">⚙️ DevOps, OS &amp; Environment</th>
   </tr>
   <tr>
     <td align="center" valign="top">
@@ -89,8 +82,7 @@ developer:
       <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
       <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
       <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
       <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
@@ -100,8 +92,8 @@ developer:
       <br/>
       <img src="https://img.shields.io/badge/SQL_Analytics-0ea5e9?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL"/>
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
       <br/><br/>
     </td>
     <td align="center" valign="top">
@@ -119,7 +111,7 @@ developer:
 
 ---
 
-## 🚀 Featured Projects — Enterprise, Java & Data
+## 🚀 Featured Projects — Web, Java & Data
 
 <table width="100%">
   <tr>
@@ -160,14 +152,14 @@ developer:
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🎬 <a href="https://github.com/pablotome8/proyecto5-noSQL-movies-pabloTomeManzano">NoSQL Movies & Cinemas REST API</a></h3>
+      <h3>🐍 <a href="https://github.com/pablotome8/proyecto3-katas-python-pabloTomeManzano">Python Algorithms & Katas</a></h3>
       <p>
-        Backend RESTful API built to manage a movie catalog and cinema locations. Features complete CRUD operations, multi-criteria filtering (by genre, release year, title), relational document population (<code>ObjectId</code> + <code>populate</code>), and data seeding.
+        Collection of programming exercises, algorithmic logic, and data structure manipulation implemented in <b>Python</b>, emphasizing clean functions and step-by-step problem solving.
       </p>
       <p>
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-        <img src="https://img.shields.io/badge/NoSQL-0ea5e9?style=flat-square" />
-        <img src="https://img.shields.io/badge/REST_API-10b981?style=flat-square" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Algorithms-0ea5e9?style=flat-square" />
+        <img src="https://img.shields.io/badge/Problem_Solving-10b981?style=flat-square" />
       </p>
     </td>
   </tr>

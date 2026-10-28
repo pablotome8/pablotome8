@@ -122,25 +122,25 @@
     <text x="0" y="74" class="title">Hi, I'm <tspan class="gradient-text">Pablo Tomé</tspan></text>
 
     <!-- Role Subtitle -->
-    <text x="0" y="106" class="subtitle">&gt; Full-Stack Web Developer &amp; Data Analyst_</text>
+    <text x="0" y="106" class="subtitle">&gt; Web Developer &amp; Data_</text>
 
     <!-- Short Value Proposition -->
-    <text x="0" y="138" class="desc">Building modern end-to-end web applications &amp; turning raw data</text>
-    <text x="0" y="158" class="desc">into actionable insights with clean code and scalable architectures.</text>
+    <text x="0" y="138" class="desc">Building web applications and working with data</text>
+    <text x="0" y="158" class="desc">using Java, Spring Boot, Angular, PHP, SQL and Python.</text>
 
     <!-- Stack Highlight Pills -->
     <g transform="translate(0, 178)">
       <rect x="0" y="0" width="136" height="26" rx="6" fill="#0f172a" stroke="#f59e0b" stroke-width="1" stroke-opacity="0.6"/>
       <text x="68" y="17" text-anchor="middle" class="pill-text" fill="#fbbf24">☕ Java / Spring Boot</text>
 
-      <rect x="144" y="0" width="138" height="26" rx="6" fill="#0f172a" stroke="#ef4444" stroke-width="1" stroke-opacity="0.6"/>
-      <text x="213" y="17" text-anchor="middle" class="pill-text" fill="#f87171">🅰️ Angular / TypeScript</text>
+      <rect x="144" y="0" width="115" height="26" rx="6" fill="#0f172a" stroke="#ef4444" stroke-width="1" stroke-opacity="0.6"/>
+      <text x="201" y="17" text-anchor="middle" class="pill-text" fill="#f87171">🅰️ Angular / PHP</text>
 
-      <rect x="290" y="0" width="118" height="26" rx="6" fill="#0f172a" stroke="#38bdf8" stroke-width="1" stroke-opacity="0.6"/>
-      <text x="349" y="17" text-anchor="middle" class="pill-text" fill="#38bdf8">🗄️ SQL / Postgres</text>
+      <rect x="267" y="0" width="130" height="26" rx="6" fill="#0f172a" stroke="#38bdf8" stroke-width="1" stroke-opacity="0.6"/>
+      <text x="332" y="17" text-anchor="middle" class="pill-text" fill="#38bdf8">🗄️ SQL / PostgreSQL</text>
 
-      <rect x="416" y="0" width="98" height="26" rx="6" fill="#0f172a" stroke="#34d399" stroke-width="1" stroke-opacity="0.6"/>
-      <text x="465" y="17" text-anchor="middle" class="pill-text" fill="#34d399">🐳 Docker / Git</text>
+      <rect x="405" y="0" width="118" height="26" rx="6" fill="#0f172a" stroke="#34d399" stroke-width="1" stroke-opacity="0.6"/>
+      <text x="464" y="17" text-anchor="middle" class="pill-text" fill="#34d399">🐍 Python / Pandas</text>
     </g>
   </g>
 
@@ -158,10 +158,10 @@
 
     <!-- Code Snippet Inside Terminal -->
     <text x="20" y="58" class="code-text"><tspan fill="#c084fc">const</tspan> <tspan fill="#38bdf8">developer</tspan> = {</text>
-    <text x="36" y="78" class="code-text">role: <tspan fill="#34d399">'Full-Stack &amp; Data'</tspan>,</text>
-    <text x="36" y="98" class="code-text">stack: [<tspan fill="#fbbf24">'Java'</tspan>, <tspan fill="#fbbf24">'Spring Boot'</tspan>, <tspan fill="#fbbf24">'Angular'</tspan>],</text>
-    <text x="36" y="118" class="code-text">data: [<tspan fill="#38bdf8">'SQL'</tspan>, <tspan fill="#38bdf8">'PostgreSQL'</tspan>, <tspan fill="#38bdf8">'MongoDB'</tspan>],</text>
-    <text x="36" y="138" class="code-text">focus: <tspan fill="#f472b6">'Enterprise Architecture &amp; Clean Code'</tspan></text>
+    <text x="36" y="78" class="code-text">name: <tspan fill="#34d399">'Pablo Tomé'</tspan>,</text>
+    <text x="36" y="98" class="code-text">web: [<tspan fill="#fbbf24">'Java'</tspan>, <tspan fill="#fbbf24">'Spring Boot'</tspan>, <tspan fill="#fbbf24">'Angular'</tspan>, <tspan fill="#fbbf24">'PHP'</tspan>],</text>
+    <text x="36" y="118" class="code-text">data: [<tspan fill="#38bdf8">'SQL'</tspan>, <tspan fill="#38bdf8">'PostgreSQL'</tspan>, <tspan fill="#38bdf8">'Python'</tspan>, <tspan fill="#38bdf8">'Pandas'</tspan>],</text>
+    <text x="36" y="138" class="code-text">tools: [<tspan fill="#f472b6">'Docker'</tspan>, <tspan fill="#f472b6">'Git'</tspan>, <tspan fill="#f472b6">'Linux'</tspan>]</text>
     <text x="20" y="158" class="code-text">};</text>
 
     <!-- Mini Animated Data Bars in Bottom-Right of Terminal -->
