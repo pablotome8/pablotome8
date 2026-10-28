@@ -7,7 +7,7 @@
 
   <!-- TYPING ANIMATION -->
   <a href="https://github.com/pablotome8">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=1000&color=38BDF8&center=true&vCenter=true&width=820&lines=Web+Developer+%7C+Java+%E2%80%A2+Spring+Boot+%E2%80%A2+Angular+%E2%80%A2+PHP;Databases+%26+Data+%7C+SQL+%E2%80%A2+PostgreSQL+%E2%80%A2+Python+%E2%80%A2+Pandas;Frontend+Basics+%7C+HTML5+%E2%80%A2+CSS3+%E2%80%A2+Tailwind+CSS" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=1000&color=38BDF8&center=true&vCenter=true&width=820&lines=Web+Developer+%7C+Java+%E2%80%A2+Spring+Boot+%E2%80%A2+Angular+%E2%80%A2+PHP;Databases+%26+Data+%7C+SQL+%E2%80%A2+PostgreSQL+%E2%80%A2+Python+%E2%80%A2+Pandas;Frontend+%7C+JavaScript+%E2%80%A2+HTML5+%E2%80%A2+CSS3+%E2%80%A2+Tailwind+CSS" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -26,15 +26,15 @@
 
 ## ⚡ About Me
 
-I'm **Pablo Tomé Manzano**, a **Web Application Development (DAW)** student and developer based in Oviedo, Spain. I focus on developing web applications using **Java, Spring Boot, Angular, and PHP**, managing relational databases with **SQL (PostgreSQL)**, and data analysis with **Python (Pandas)**.
+I'm **Pablo Tomé Manzano**, a **Web Application Development (DAW)** student and developer based in Oviedo, Spain. I focus on developing web applications using **Java, Spring Boot, Angular, PHP, and JavaScript**, managing relational databases with **SQL (PostgreSQL)**, and data analysis with **Python (Pandas)**.
 
 <table>
   <tr>
     <td width="58%" valign="top">
       <ul>
-        <li>🌐 <b>Web & Backend:</b> Developing web applications with <b>Java, Spring Boot, Angular, PHP, HTML5, CSS3</b>, and <b>Tailwind CSS</b>.</li>
-        <li>📊 <b>Databases & Data:</b> Writing relational queries and database schemas with <b>SQL (PostgreSQL)</b>, and exploring data manipulation with <b>Python (Pandas)</b>.</li>
-        <li>⚙️ <b>Development Tools:</b> Working with <b>Docker, Linux, Bash, Git</b>, and <b>VS Code</b> for version control and development environments.</li>
+        <li>🌐 <b>Web & Backend:</b> Developing web applications with **Java, Spring Boot, Angular, PHP, JavaScript, HTML5, CSS3**, and **Tailwind CSS**.</li>
+        <li>📊 <b>Databases & Data:</b> Writing relational queries and database schemas with **SQL (PostgreSQL)**, and exploring data manipulation with **Python (Pandas)**.</li>
+        <li>⚙️ <b>Development Tools:</b> Working with **Docker, Linux, Bash, Git**, and **VS Code** for version control and development environments.</li>
         <li>🏃‍♂️ <b>Beyond the Terminal:</b> Reading 📚 and sports enthusiast.</li>
       </ul>
     </td>
@@ -47,7 +47,7 @@ developer:
   role: "Web Application Developer (DAW)"
   stack:
     backend:  ["Java", "Spring Boot", "PHP"]
-    frontend: ["Angular", "HTML5", "CSS3", "Tailwind CSS"]
+    frontend: ["Angular", "JavaScript", "HTML5", "CSS3", "Tailwind CSS"]
     data_db:  ["SQL", "PostgreSQL", "Python", "Pandas"]
     tools:    ["Docker", "Linux", "Bash", "Git"]
 ```
@@ -63,7 +63,7 @@ developer:
 <div align="center">
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,angular,html,css,tailwind,php,postgres,py,docker,linux,bash,git,github,vscode&perline=8&theme=dark" alt="Tech Stack Icons" />
+    <img src="https://skillicons.dev/icons?i=java,spring,angular,js,html,css,tailwind,php,postgres,py,docker,linux,bash,git,github,vscode&perline=8&theme=dark" alt="Tech Stack Icons" />
   </a>
 
 </div>
@@ -82,6 +82,7 @@ developer:
       <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
       <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
       <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
       <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
