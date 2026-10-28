@@ -13,9 +13,8 @@
   <br/>
 
   <!-- PROFILE BADGES -->
-  <img src="https://img.shields.io/badge/Stack-Java_%E2%80%A2_Spring_Boot_%E2%80%A2_Angular_%E2%80%A2_PHP-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Stack" />
+  <img src="https://img.shields.io/badge/Stack-Java_%E2%80%A2_Spring_Boot_%E2%80%A2_Angular-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Stack" />
   <img src="https://img.shields.io/badge/Location-Oviedo,_Spain-6366f1?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
-  <img src="https://img.shields.io/badge/Databases-SQL_%E2%80%A2_PostgreSQL-0ea5e9?style=for-the-badge&logo=postgresql&logoColor=white" alt="Databases" />
   <img src="https://komarev.com/ghpvc/?username=pablotome8&label=Profile%20Views&color=38bdf8&style=for-the-badge" alt="Profile Views" />
 
 </div>
