@@ -27,18 +27,6 @@
 
 I'm **Pablo Tomé Manzano**, a **(DAW)** student and developer based in Oviedo, Spain. I focus on developing web applications using **Java, Spring Boot, Angular, PHP, and JavaScript**, managing relational databases with **SQL (PostgreSQL)**, and data analysis with **Python (Pandas)**.
 
-```yaml
-developer:
-  name: "Pablo Tomé Manzano"
-  location: "Oviedo, Asturias, ES"
-  role: "Backend Developer"
-  stack:
-    backend:  ["Java", "Spring Boot", "PHP"]
-    frontend: ["Angular", "JavaScript", "HTML5", "CSS3", "Tailwind CSS"]
-    data_db:  ["SQL", "PostgreSQL", "Python", "Pandas", "Power BI", "Excel"]
-    tools:    ["Docker", "Linux", "Bash", "Git"]
-```
-
 
 ## 🛠️ Tech Stack & Tools
 
