@@ -7,7 +7,7 @@
 
   <!-- TYPING ANIMATION -->
   <a href="https://github.com/pablotome8">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=1000&color=38BDF8&center=true&vCenter=true&width=820&lines=Web+Developer+%7C+Java+%E2%80%A2+Spring+Boot+%E2%80%A2+Angular+%E2%80%A2+PHP;Databases+%26+Data+%7C+SQL+%E2%80%A2+PostgreSQL+%E2%80%A2+Python+%E2%80%A2+Pandas;Frontend+%7C+JavaScript+%E2%80%A2+HTML5+%E2%80%A2+CSS3+%E2%80%A2+Tailwind+CSS" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=1000&color=38BDF8&center=true&vCenter=true&width=860&lines=Backend+Developer+%7C+Java+%E2%80%A2+Spring+Boot+%E2%80%A2+PHP;Databases+%26+Data+%7C+SQL+%E2%80%A2+PostgreSQL+%E2%80%A2+Python+%E2%80%A2+Pandas;Frontend+Developer+%7C+Angular+%E2%80%A2+JavaScript+%E2%80%A2+HTML5+%E2%80%A2+CSS3+%E2%80%A2+Tailwind+CSS" alt="Typing SVG" />
   </a>
 
   <br/>
