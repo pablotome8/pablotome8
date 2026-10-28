@@ -130,17 +130,17 @@
 
     <!-- Stack Highlight Pills -->
     <g transform="translate(0, 178)">
-      <rect x="0" y="0" width="114" height="26" rx="6" fill="#0f172a" stroke="#38bdf8" stroke-width="1" stroke-opacity="0.6"/>
-      <text x="57" y="17" text-anchor="middle" class="pill-text" fill="#38bdf8">⚛️ React / Tailwind</text>
+      <rect x="0" y="0" width="136" height="26" rx="6" fill="#0f172a" stroke="#f59e0b" stroke-width="1" stroke-opacity="0.6"/>
+      <text x="68" y="17" text-anchor="middle" class="pill-text" fill="#fbbf24">☕ Java / Spring Boot</text>
 
-      <rect x="122" y="0" width="120" height="26" rx="6" fill="#0f172a" stroke="#818cf8" stroke-width="1" stroke-opacity="0.6"/>
-      <text x="182" y="17" text-anchor="middle" class="pill-text" fill="#818cf8">🌐 Node.js / Laravel</text>
+      <rect x="144" y="0" width="138" height="26" rx="6" fill="#0f172a" stroke="#ef4444" stroke-width="1" stroke-opacity="0.6"/>
+      <text x="213" y="17" text-anchor="middle" class="pill-text" fill="#f87171">🅰️ Angular / TypeScript</text>
 
-      <rect x="250" y="0" width="104" height="26" rx="6" fill="#0f172a" stroke="#34d399" stroke-width="1" stroke-opacity="0.6"/>
-      <text x="302" y="17" text-anchor="middle" class="pill-text" fill="#34d399">🐍 Python / SQL</text>
+      <rect x="290" y="0" width="118" height="26" rx="6" fill="#0f172a" stroke="#38bdf8" stroke-width="1" stroke-opacity="0.6"/>
+      <text x="349" y="17" text-anchor="middle" class="pill-text" fill="#38bdf8">🗄️ SQL / Postgres</text>
 
-      <rect x="362" y="0" width="112" height="26" rx="6" fill="#0f172a" stroke="#f59e0b" stroke-width="1" stroke-opacity="0.6"/>
-      <text x="418" y="17" text-anchor="middle" class="pill-text" fill="#fbbf24">🗄️ NoSQL / Docker</text>
+      <rect x="416" y="0" width="98" height="26" rx="6" fill="#0f172a" stroke="#34d399" stroke-width="1" stroke-opacity="0.6"/>
+      <text x="465" y="17" text-anchor="middle" class="pill-text" fill="#34d399">🐳 Docker / Git</text>
     </g>
   </g>
 
@@ -158,10 +158,10 @@
 
     <!-- Code Snippet Inside Terminal -->
     <text x="20" y="58" class="code-text"><tspan fill="#c084fc">const</tspan> <tspan fill="#38bdf8">developer</tspan> = {</text>
-    <text x="36" y="78" class="code-text">role: <tspan fill="#34d399">'Full-Stack &amp; Data Analyst'</tspan>,</text>
-    <text x="36" y="98" class="code-text">web: [<tspan fill="#fbbf24">'React'</tspan>, <tspan fill="#fbbf24">'Tailwind'</tspan>, <tspan fill="#fbbf24">'Laravel'</tspan>, <tspan fill="#fbbf24">'Node'</tspan>],</text>
-    <text x="36" y="118" class="code-text">data: [<tspan fill="#38bdf8">'Python'</tspan>, <tspan fill="#38bdf8">'PostgreSQL'</tspan>, <tspan fill="#38bdf8">'MongoDB'</tspan>],</text>
-    <text x="36" y="138" class="code-text">mindset: <tspan fill="#f472b6">'Clean Code &amp; Analytics'</tspan></text>
+    <text x="36" y="78" class="code-text">role: <tspan fill="#34d399">'Full-Stack &amp; Data'</tspan>,</text>
+    <text x="36" y="98" class="code-text">stack: [<tspan fill="#fbbf24">'Java'</tspan>, <tspan fill="#fbbf24">'Spring Boot'</tspan>, <tspan fill="#fbbf24">'Angular'</tspan>],</text>
+    <text x="36" y="118" class="code-text">data: [<tspan fill="#38bdf8">'SQL'</tspan>, <tspan fill="#38bdf8">'PostgreSQL'</tspan>, <tspan fill="#38bdf8">'MongoDB'</tspan>],</text>
+    <text x="36" y="138" class="code-text">focus: <tspan fill="#f472b6">'Enterprise Architecture &amp; Clean Code'</tspan></text>
     <text x="20" y="158" class="code-text">};</text>
 
     <!-- Mini Animated Data Bars in Bottom-Right of Terminal -->
