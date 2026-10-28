@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- HERO BANNER -->
-  <img src="./assets/header.svg" alt="Pablo Tomé — Web Developer & Data" width="100%" />
+  <img src="./assets/header.svg?v=3" alt="Pablo Tomé — Web Developer & Data" width="100%" />
 
   <br/>
 
