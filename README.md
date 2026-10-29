@@ -30,16 +30,6 @@ I'm **Pablo Tomé Manzano**, a **(DAW)** student and developer based in Oviedo, 
 
 ## 🛠️ Tech Stack & Tools
 
-<div align="center">
-
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,angular,js,html,css,tailwind,php,postgres,py,docker,linux,bash,git,github,vscode&perline=8&theme=dark" alt="Tech Stack Icons" />
-  </a>
-
-</div>
-
-<br/>
-
 <table width="100%">
   <tr>
     <th width="33%" align="center">☕ Web Development</th>
