@@ -7,7 +7,7 @@
 
   <!-- TYPING ANIMATION -->
   <a href="https://github.com/pablotome8">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=1000&color=38BDF8&center=true&vCenter=true&width=860&lines=Backend+Developer+%7C+Java+%E2%80%A2+Spring+Boot+%E2%80%A2+PHP;Databases+%26+Data+%7C+SQL+%E2%80%A2+PostgreSQL+%E2%80%A2+Python+%E2%80%A2+Pandas;Frontend+Developer+%7C+Angular+%E2%80%A2+JavaScript+%E2%80%A2+HTML5+%E2%80%A2+CSS3+%E2%80%A2+Tailwind+CSS" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=1000&color=38BDF8&center=true&vCenter=true&width=860&lines=Backend+Developer+%7C+Java+%E2%80%A2+Spring+Boot+%E2%80%A2+PHP;Databases+%26+Data+%7C+SQL+%E2%80%A2+PostgreSQL+%E2%80%A2+Python+%E2%80%A2+Pandas+%E2%80%A2+NumPy;Frontend+Developer+%7C+Angular+%E2%80%A2+TypeScript+%E2%80%A2+JavaScript+%E2%80%A2+Tailwind+CSS" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -25,7 +25,7 @@
 
 ## ⚡ About Me
 
-I'm **Pablo Tomé Manzano**, a **(DAW)** student and developer based in Oviedo, Spain. I focus on developing web applications using **Java, Spring Boot, Angular, PHP, and JavaScript**, managing relational databases with **SQL (PostgreSQL)**, and data analysis with **Python (Pandas)**.
+I'm **Pablo Tomé Manzano**, a **(DAW)** student and developer based in Oviedo, Spain. I focus on developing web applications using **Java, Spring Boot, Angular, TypeScript, PHP, and JavaScript**, managing relational databases with **SQL (PostgreSQL)**, and data analysis with **Python (Pandas, NumPy)**.
 
 
 ## 🛠️ Tech Stack & Tools
@@ -42,6 +42,7 @@ I'm **Pablo Tomé Manzano**, a **(DAW)** student and developer based in Oviedo, 
       <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
       <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
       <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
       <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
@@ -54,6 +55,7 @@ I'm **Pablo Tomé Manzano**, a **(DAW)** student and developer based in Oviedo, 
       <img src="https://img.shields.io/badge/SQL_Analytics-0ea5e9?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL"/>
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+      <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
       <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
       <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
       <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
