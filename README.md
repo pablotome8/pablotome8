@@ -1,13 +1,13 @@
 <div align="center">
 
   <!-- HERO BANNER -->
-  <img src="./assets/header.svg?v=4" alt="Pablo Tomé — Web Developer & Data" width="100%" />
+  <img src="./assets/header.svg?v=5" alt="Pablo Tomé — Web Developer & Data" width="100%" />
 
   <br/>
 
   <!-- TYPING ANIMATION -->
   <a href="https://github.com/pablotome8">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=1000&color=38BDF8&center=true&vCenter=true&width=860&lines=Backend+Developer+%7C+Java+%E2%80%A2+Spring+Boot+%E2%80%A2+PHP;Databases+%26+Data+%7C+SQL+%E2%80%A2+PostgreSQL+%E2%80%A2+Python+%E2%80%A2+Pandas+%E2%80%A2+NumPy;Frontend+Developer+%7C+Angular+%E2%80%A2+TypeScript+%E2%80%A2+JavaScript+%E2%80%A2+Tailwind+CSS" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=1000&color=38BDF8&center=true&vCenter=true&width=860&lines=Backend+Developer+%7C+Java+%E2%80%A2+Spring+Boot+%E2%80%A2+PHP;Databases+%26+Data+%7C+SQL+%E2%80%A2+PostgreSQL+%E2%80%A2+Python+%E2%80%A2+Pandas+%E2%80%A2+NumPy;Frontend+Developer+%7C+Angular+%E2%80%A2+TypeScript" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -25,7 +25,7 @@
 
 ## ⚡ About Me
 
-I'm **Pablo Tomé Manzano**, a **(DAW)** student and developer based in Oviedo, Spain. I focus on developing web applications using **Java, Spring Boot, Angular, TypeScript, PHP, and JavaScript**, managing relational databases with **SQL (PostgreSQL)**, and data analysis with **Python (Pandas, NumPy)**.
+I'm **Pablo Tomé Manzano**, a **(DAW)** student and developer based in Oviedo, Spain. I focus on developing web applications using **Java, Spring Boot, Angular, TypeScript, and PHP**, managing relational databases with **SQL (PostgreSQL)**, and data analysis with **Python (Pandas, NumPy)**.
 
 
 ## 🛠️ Tech Stack & Tools
@@ -34,7 +34,7 @@ I'm **Pablo Tomé Manzano**, a **(DAW)** student and developer based in Oviedo, 
   <tr>
     <th width="33%" align="center">☕ Web Development</th>
     <th width="33%" align="center">📊 SQL &amp; Data</th>
-    <th width="33%" align="center">⚙️ DevOps, OS &amp; Environment</th>
+    <th width="33%" align="center">⚙️ Infrastructure</th>
   </tr>
   <tr>
     <td align="center" valign="top">
@@ -43,11 +43,7 @@ I'm **Pablo Tomé Manzano**, a **(DAW)** student and developer based in Oviedo, 
       <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
       <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
       <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
       <br/><br/>
     </td>
     <td align="center" valign="top">
@@ -64,9 +60,7 @@ I'm **Pablo Tomé Manzano**, a **(DAW)** student and developer based in Oviedo, 
     <td align="center" valign="top">
       <br/>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-      <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
       <br/><br/>
     </td>
   </tr>
@@ -81,12 +75,11 @@ I'm **Pablo Tomé Manzano**, a **(DAW)** student and developer based in Oviedo, 
     <td width="50%" valign="top">
       <h3>🌸 <a href="https://github.com/pablotome8/FloristeriaLaBajo">Floristería Labajo — Web & Management Platform</a></h3>
       <p>
-        End-to-end platform for organic flower e-commerce and internal administration. Unifies an intuitive customer web portal (<b>HTML5 & CSS3</b>) with a relational database architecture connected via <b>JDBC & SQL</b> in <b>Java</b> for order tracking, fresh stock control, and delivery logistics.
+        End-to-end platform for organic flower e-commerce and internal administration. Unifies an intuitive customer web portal with a relational database architecture connected via <b>JDBC & SQL</b> in <b>Java</b> for order tracking, fresh stock control, and delivery logistics.
       </p>
       <p>
         <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
         <img src="https://img.shields.io/badge/SQL_/_JDBC-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-        <img src="https://img.shields.io/badge/HTML5_%26_CSS3-E34F26?style=flat-square&logo=html5&logoColor=white" />
         <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
       </p>
     </td>
@@ -106,11 +99,11 @@ I'm **Pablo Tomé Manzano**, a **(DAW)** student and developer based in Oviedo, 
     <td width="50%" valign="top">
       <h3>📕 <a href="https://github.com/pablotome8/HorrorLibray">HorrorLibrary — Stephen King Catalog App</a></h3>
       <p>
-        Modern desktop application designed to explore, search, and curate Stephen King's literary bibliography. Features a custom <b>Gothic Dark CSS</b> theme over decoupled <b>JavaFX (FXML)</b> views, <b>REST API</b> consumption via <code>HttpClient</code>, and local <b>JSON</b> persistence with <b>Gson</b>.
+        Modern desktop application designed to explore, search, and curate Stephen King's literary bibliography. Features a custom <b>Gothic dark theme</b> over decoupled <b>JavaFX (FXML)</b> views, <b>REST API</b> consumption via <code>HttpClient</code>, and local <b>JSON</b> persistence with <b>Gson</b>.
       </p>
       <p>
         <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaFX_/_CSS-0ea5e9?style=flat-square" />
+        <img src="https://img.shields.io/badge/JavaFX_/_FXML-0ea5e9?style=flat-square" />
         <img src="https://img.shields.io/badge/REST_API_/_Gson-f59e0b?style=flat-square" />
       </p>
     </td>
