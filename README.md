@@ -127,26 +127,5 @@ I'm **Pablo Tomé Manzano**, a **(DAW)** student and developer based in Oviedo, 
     </td>
   </tr>
 </table>
-
----
-
-## 📈 GitHub Analytics & Activity
-
-<div align="center">
-
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablotome8&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
-  &nbsp;
-  <img height="175" src="https://streak-stats.demolab.com?user=pablotome8&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-  <br/><br/>
-
-  <img width="92%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pablotome8&theme=tokyonight" alt="GitHub Profile Summary" />
-
-</div>
-
-<br/>
-
-<!-- FOOTER BANNER -->
-<div align="center">
   <img src="./assets/footer.svg" alt="Footer Banner" width="100%" />
 </div>
