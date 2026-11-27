@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 196" width="840" height="196" role="img" aria-labelledby="title desc">
+  <title id="title">Pablo Tomé — Desarrollador Full Stack · Backend y Datos</title>
+  <desc id="desc">Estudiante de 2.º de DAW en Oviedo, disponible para prácticas y puestos junior en Oviedo o remoto. Stack núcleo: Java, PHP, Node.js, PostgreSQL y Python.</desc>
+  <rect x="0.75" y="0.75" width="838.5" height="194.5" rx="14" fill="#091310" stroke="#233b32" stroke-width="1.5"/>
+
+  <!-- Brand Monogram PT (exact geometry from pablotome8.github.io) -->
+  <g transform="translate(36, 30)">
+    <rect x="0.75" y="0.75" width="42.5" height="42.5" rx="9" fill="#0f1e19" stroke="#22d398" stroke-opacity="0.5" stroke-width="1.5"/>
+    <g transform="translate(6, 6) scale(1)">
+      <path d="M7.5 22.5V9.5h5.1c2.7 0 4.3 1.4 4.3 3.9 0 2.5-1.6 4-4.3 4h-2.5v5.1H7.5zm2.6-7.3h2.3c1.2 0 1.9-.6 1.9-1.8 0-1.1-.7-1.7-1.9-1.7h-2.3v3.5zm9 7.3V11.8h-3.1V9.5h8.8v2.3h-3.1v10.7h-2.6z" fill="#22d398"/>
+    </g>
+  </g>
+
+  <!-- Main Heading & Positioning -->
+  <text x="96" y="64" font-family="'Bricolage Grotesque', 'IBM Plex Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="34" font-weight="800" fill="#eef5f2" letter-spacing="-0.6">Pablo Tomé</text>
+  <text x="36" y="106" font-family="'IBM Plex Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="17" font-weight="600" fill="#22d398">Desarrollador Full Stack · Backend y Datos</text>
+  <text x="36" y="138" font-family="'IBM Plex Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="14" font-weight="400" fill="#d7e6e0">Estudiante de 2.º de DAW en Oviedo. Aplicaciones web,</text>
+  <text x="36" y="160" font-family="'IBM Plex Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="14" font-weight="400" fill="#9eb7ad">bases de datos robustas y análisis de datos en Python.</text>
+
+  <!-- Right Dossier Panel -->
+  <rect x="536" y="26" width="268" height="144" rx="10" fill="#0f1e19" stroke="#233b32" stroke-width="1"/>
+
+  <text x="556" y="49" font-family="'IBM Plex Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10.5" font-weight="600" fill="#9eb7ad" letter-spacing="0.6">UBICACIÓN</text>
+  <text x="556" y="67" font-family="'IBM Plex Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="13.5" font-weight="600" fill="#eef5f2">Oviedo · Remoto</text>
+
+  <line x1="556" y1="78" x2="784" y2="78" stroke="#233b32" stroke-width="1"/>
+
+  <text x="556" y="96" font-family="'IBM Plex Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10.5" font-weight="600" fill="#9eb7ad" letter-spacing="0.6">DISPONIBILIDAD</text>
+  <text x="556" y="114" font-family="'IBM Plex Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="13.5" font-weight="600" fill="#22d398">Prácticas DAW y puesto junior</text>
+
+  <line x1="556" y1="125" x2="784" y2="125" stroke="#233b32" stroke-width="1"/>
+
+  <text x="556" y="143" font-family="'IBM Plex Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10.5" font-weight="600" fill="#9eb7ad" letter-spacing="0.6">STACK NÚCLEO</text>
+  <text x="556" y="160" font-family="'IBM Plex Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12.5" font-weight="500" fill="#d7e6e0">Java · PHP · Node · PostgreSQL · Python</text>
+</svg>
