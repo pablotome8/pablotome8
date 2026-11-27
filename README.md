@@ -1,36 +1,38 @@
-<p align="center">
+<h1 align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg" />
-    <img src="./assets/header-dark.svg" alt="Pablo Tomé — Desarrollador Full Stack · Backend y Datos. Estudiante de 2.º de DAW en Oviedo, disponible para prácticas y puestos junior en Oviedo o remoto." width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg?v=2" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg?v=2" />
+    <img src="./assets/header-dark.svg?v=2" alt="Pablo Tomé — Desarrollador Full Stack · Backend y Datos" width="100%" />
   </picture>
+</h1>
+
+<p align="center">
+  <strong>Oviedo · Remoto</strong> · 2.º de Desarrollo de Aplicaciones Web (DAW) · Disponible para <strong>prácticas y puestos junior</strong><br/>
+  <code>Java</code> · <code>PHP</code> · <code>Node.js</code> · <code>PostgreSQL</code> · <code>Python</code>
 </p>
 
 <p align="center">
   <a href="https://pablotome8.github.io/">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./assets/btn-portfolio-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="./assets/btn-portfolio-light.svg" />
-      <img src="./assets/btn-portfolio-dark.svg" alt="Portfolio — pablotome8.github.io" width="280" height="56" />
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/btn-portfolio-dark.svg?v=2" />
+      <source media="(prefers-color-scheme: light)" srcset="./assets/btn-portfolio-light.svg?v=2" />
+      <img src="./assets/btn-portfolio-dark.svg?v=2" alt="Portfolio — pablotome8.github.io" width="272" height="64" />
     </picture>
   </a>
-  &nbsp;
   <a href="https://www.linkedin.com/in/pablotomemanzano/">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./assets/btn-linkedin-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="./assets/btn-linkedin-light.svg" />
-      <img src="./assets/btn-linkedin-dark.svg" alt="LinkedIn — Pablo Tomé Manzano" width="280" height="56" />
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/btn-linkedin-dark.svg?v=2" />
+      <source media="(prefers-color-scheme: light)" srcset="./assets/btn-linkedin-light.svg?v=2" />
+      <img src="./assets/btn-linkedin-dark.svg?v=2" alt="LinkedIn — Pablo Tomé Manzano" width="272" height="64" />
     </picture>
   </a>
 </p>
 
----
-
 ## Sobre mí
 
-Estudiante de 2.º de **Desarrollo de Aplicaciones Web (DAW)** en Oviedo, disponible para **prácticas y puestos junior** en Oviedo o en remoto.
+Me formo en ingeniería web con foco en código mantenible: arquitectura limpia en backend, interfaces semánticas accesibles (WCAG 2.1 AA) y modelado de datos sólido tanto relacional como documental.
 
-Me formo en ingeniería web con foco en código mantenible: arquitectura limpia en backend, interfaces semánticas accesibles (WCAG 2.1 AA) y modelado de datos sólido tanto relacional como documental. Trabajo cada proyecto desde infraestructura reproducible en contenedores hasta validación de APIs e integración continua, cuidando rendimiento, seguridad y claridad técnica.
+Trabajo cada proyecto desde infraestructura reproducible en contenedores hasta validación automática de APIs e integración continua, cuidando rendimiento, seguridad y claridad técnica.
 
 ---
 
@@ -39,10 +41,10 @@ Me formo en ingeniería web con foco en código mantenible: arquitectura limpia 
 | Área | Tecnologías |
 | :--- | :--- |
 | **Backend** | `Java` · `PHP` · `Node.js` · `Express` |
-| **Frontend** | `JavaScript` · `HTML5` · `CSS3` |
+| **Frontend** | `HTML5` · `CSS3` · `Sass` · `JavaScript` |
 | **Bases de datos** | `PostgreSQL` · `MongoDB` · `SQL` |
-| **Datos y BI** | `Python` · `NumPy` · `Pandas` · `Power BI` · `Excel` |
-| **Infraestructura y CI/CD** | `Docker` · `AWS` · `GitHub Actions` |
+| **Datos** | `Python` · `NumPy` · `Pandas` |
+| **Contenedores y CI/CD** | `Docker` · `GitHub Actions` · `AWS` |
 
 ---
 
@@ -56,19 +58,19 @@ Me formo en ingeniería web con foco en código mantenible: arquitectura limpia 
 >
 > `Java` · `JDBC` · `SQL` · `GitHub Actions`
 
-### [Airport SQL — Análisis de Aviación](https://github.com/pablotome8/proyecto4-SQL-airport-pabloTomeManzano)
+### [Airport SQL — Análisis de Aviación](https://github.com/pablotome8/proyecto4-SQL-airport-pabloTomeManzano) · *Análisis SQL*
 
 Exploración analítica y consultas relacionales sobre una base de datos de aviación comercial y reservas de vuelos. Consultas con `INNER JOIN`, filtrado de reservas de alto valor, métricas por aeronave y cálculo temporal de retrasos con `INTERVAL`.
 
 `PostgreSQL` · `SQL` · `JOINs` · `Intervalos`
 
-### [HorrorLibrary — Catálogo Stephen King](https://github.com/pablotome8/HorrorLibray)
+### [HorrorLibrary — Catálogo Stephen King](https://github.com/pablotome8/HorrorLibray) · *App de escritorio*
 
-Aplicación de escritorio en Java para explorar, filtrar y guardar favoritos de la bibliografía completa de Stephen King. Interfaz desacoplada con vistas `FXML`, peticiones asíncronas mediante `HttpClient` y exportación local en `JSON` con `Gson`.
+Aplicación de escritorio en Java para explorar, filtrar y guardar favoritos de la bibliografía completa de Stephen King. Interfaz desacoplada con vistas `FXML`, peticiones asíncronas mediante `HttpClient` y exportación local en `JSON` con `Gson`. Demo en vídeo disponible en el [portfolio](https://pablotome8.github.io/#projects).
 
 `Java` · `JavaFX` · `REST API` · `Gson`
 
-### [Python Katas — Algoritmia y POO](https://github.com/pablotome8/proyecto3-katas-python-pabloTomeManzano)
+### [Python Katas — Algoritmia y POO](https://github.com/pablotome8/proyecto3-katas-python-pabloTomeManzano) · *Algoritmia*
 
 Colección de 40 ejercicios de algoritmia resueltos y documentados en cuaderno interactivo: programación funcional (`map`, `filter`, `reduce`), excepciones personalizadas y modelado orientado a objetos (`Arbol`, `UsuarioBanco`).
 
@@ -78,6 +80,6 @@ Colección de 40 ejercicios de algoritmia resueltos y documentados en cuaderno i
 
 ## Contacto
 
-Disponible para prácticas DAW, proyectos web o puestos junior en Oviedo y remoto.
+Disponible para prácticas DAW, proyectos web o puestos junior en Oviedo y remoto. En el [portfolio](https://pablotome8.github.io/) puedes ver vistas previas y la demo en vídeo de los proyectos.
 
 [Portfolio — pablotome8.github.io](https://pablotome8.github.io/) · [LinkedIn — Pablo Tomé Manzano](https://www.linkedin.com/in/pablotomemanzano/)
