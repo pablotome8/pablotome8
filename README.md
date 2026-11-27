@@ -1,19 +1,19 @@
 <div align="center">
 
   <!-- HERO BANNER -->
-  <img src="./assets/header.svg?v=6" alt="Pablo Tomé — Web Developer & Data" width="100%" />
+  <img src="./assets/header.svg?v=7" alt="Pablo Tomé — Web Developer & Data" width="100%" />
 
   <br/>
 
   <!-- TYPING ANIMATION -->
   <a href="https://github.com/pablotome8">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=1000&color=38BDF8&center=true&vCenter=true&width=860&lines=Backend+Developer+%7C+Java+%E2%80%A2+Spring+Boot+%E2%80%A2+PHP;Databases+%26+Data+%7C+SQL+%E2%80%A2+PostgreSQL+%E2%80%A2+Python+%E2%80%A2+Pandas+%E2%80%A2+NumPy;Frontend+Developer+%7C+Angular+%E2%80%A2+TypeScript" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=1000&color=38BDF8&center=true&vCenter=true&width=860&lines=Backend+Developer+%7C+Java+%E2%80%A2+PHP+8+%E2%80%A2+Node.js+%E2%80%A2+Express;Databases+%26+Data+%7C+PostgreSQL+%E2%80%A2+MongoDB+%E2%80%A2+Python+%E2%80%A2+Pandas+%E2%80%A2+NumPy;Frontend+%26+Infra+%7C+JavaScript+%E2%80%A2+Sass+%E2%80%A2+Docker+%E2%80%A2+Nginx+%E2%80%A2+AWS" alt="Typing SVG" />
   </a>
 
   <br/>
 
   <!-- PROFILE BADGES -->
-  <img src="https://img.shields.io/badge/Stack-Java_%E2%80%A2_Spring_Boot_%E2%80%A2_Angular-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Stack" />
+  <img src="https://img.shields.io/badge/Stack-Java_%E2%80%A2_PHP_%E2%80%A2_Node.js-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Stack" />
   <img src="https://img.shields.io/badge/Location-Oviedo,_Spain-6366f1?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
   <img src="https://komarev.com/ghpvc/?username=pablotome8&label=Profile%20Views&color=38bdf8&style=for-the-badge" alt="Profile Views" />
 
@@ -25,7 +25,7 @@
 
 ## ⚡ About Me
 
-I'm **Pablo Tomé Manzano**, a **(DAW)** student and developer based in Oviedo, Spain. I focus on developing web applications using **Java, Spring Boot, Angular, TypeScript, and PHP**, managing relational databases with **SQL (PostgreSQL)**, and data analysis with **Python (Pandas, NumPy)**.
+I'm **Pablo Tomé Manzano**, a **(DAW)** student and developer based in Oviedo, Spain. I focus on developing web applications using **Java, PHP, Node.js (Express), JavaScript, and Sass**, managing **SQL (PostgreSQL, MySQL)** and **NoSQL (MongoDB)** databases, and performing data analysis with **Python (Pandas, NumPy)**.
 
 
 ## 🛠️ Tech Stack & Tools
@@ -33,33 +33,40 @@ I'm **Pablo Tomé Manzano**, a **(DAW)** student and developer based in Oviedo, 
 <table width="100%">
   <tr>
     <th width="33%" align="center">☕ Web Development</th>
-    <th width="33%" align="center">📊 SQL &amp; Data</th>
+    <th width="33%" align="center">📊 Databases &amp; Data</th>
     <th width="33%" align="center">⚙️ Infrastructure</th>
   </tr>
   <tr>
     <td align="center" valign="top">
       <br/>
       <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
-      <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
       <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+      <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+      <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass"/>
       <br/><br/>
     </td>
     <td align="center" valign="top">
       <br/>
-      <img src="https://img.shields.io/badge/SQL_Analytics-0ea5e9?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL"/>
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
       <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
       <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
       <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+      <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
+      <img src="https://img.shields.io/badge/Qlik-009845?style=for-the-badge&logo=qlik&logoColor=white" alt="Qlik"/>
       <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
       <br/><br/>
     </td>
     <td align="center" valign="top">
       <br/>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+      <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS"/>
+      <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
       <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
       <br/><br/>
     </td>
