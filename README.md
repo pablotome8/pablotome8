@@ -27,7 +27,6 @@
     </picture>
   </a>
 </p>
----
 
 ## Stack técnico
 
