@@ -27,13 +27,6 @@
     </picture>
   </a>
 </p>
-
-## Sobre mí
-
-Me formo en ingeniería web con foco en código mantenible: arquitectura limpia en backend, interfaces semánticas accesibles (WCAG 2.1 AA) y modelado de datos sólido tanto relacional como documental.
-
-Trabajo cada proyecto desde infraestructura reproducible en contenedores hasta validación automática de APIs e integración continua, cuidando rendimiento, seguridad y claridad técnica.
-
 ---
 
 ## Stack técnico
