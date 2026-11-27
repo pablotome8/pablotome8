@@ -75,11 +75,3 @@ Aplicación de escritorio en Java para explorar, filtrar y guardar favoritos de 
 Colección de 40 ejercicios de algoritmia resueltos y documentados en cuaderno interactivo: programación funcional (`map`, `filter`, `reduce`), excepciones personalizadas y modelado orientado a objetos (`Arbol`, `UsuarioBanco`).
 
 `Python` · `Jupyter` · `Type Hints` · `POO` — [Ver repositorio →](https://github.com/pablotome8/proyecto3-katas-python-pabloTomeManzano)
-
----
-
-## Contacto
-
-Disponible para prácticas DAW, proyectos web o puestos junior en Oviedo y remoto. En el [portfolio](https://pablotome8.github.io/) puedes ver vistas previas y la demo en vídeo de los proyectos.
-
-[Portfolio — pablotome8.github.io](https://pablotome8.github.io/) · [LinkedIn — Pablo Tomé Manzano](https://www.linkedin.com/in/pablotomemanzano/)
